@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="quizz_app">Quizz App</string>
+    <string name="submmit">SUBMMIT</string>
+    <string name="result">Result</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="your_score_is">Your score is</string>
+    <string name="finish">FINISH</string>
+    <string name="go_to_next_quewstion">GO TO NEXT QUEWSTION</string>
+    <string name="subbmit">SUBBMIT</string>
+</resources>
